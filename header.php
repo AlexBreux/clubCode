@@ -20,7 +20,7 @@
 
  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activités <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="./ateliersbis.php">Ateliers »</a></li>
+                                        <li><a href="./ateliers.php">Ateliers »</a></li>
                                         <li><a href="./soirees_code.php">Les soirées Code »</a></li>
                                         <li><a href="./MakeITmagic.php">MakeItMagic »</a></li>
                                     </ul>
