@@ -22,7 +22,7 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="./ateliers.php">Ateliers »</a></li>
                                         <li><a href="./soirees_code.php">Les soirées Code »</a></li>
-                                        <li><a href="./MakeITmagic.php">MakeItMagic »</a></li>
+                                        <li><a href="./makeITmagic.php">MakeItMagic »</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
