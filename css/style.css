@@ -1,3 +1,24 @@
+.dateAndPlace{
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+#logo_header{
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-block;
+}
+
+#partenaires, #calendrier{
+    padding-top: 1em;
+}
+
+
+#partenaires img{
+    height: 10em;
+}
+
+
 a, a:focus, a:hover {
     text-decoration: none;
 }
